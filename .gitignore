@@ -112,3 +112,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Database
+db.sqlite3
+
+# Uploads
+media/
+src/media/
